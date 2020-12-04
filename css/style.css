@@ -18,6 +18,6 @@ li.completed {
 }
 
 ul#tasks {
-  backgound: #ccc;
+  background: #ccc;
   text-decoration: underline;
 }
