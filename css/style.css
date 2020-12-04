@@ -17,7 +17,7 @@ li.completed {
   font-family: Arial;
 }
 
-ul#tasks .completed {
+ul#tasks {
   backgound: #ccc;
   text-decoration: underline;
 }
